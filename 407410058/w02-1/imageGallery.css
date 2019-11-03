@@ -1,0 +1,26 @@
+#line3 img{
+    width: 30%;
+    margin: 1.66%;
+    float: left;
+}
+#line4 img{
+    width: 22%;
+    margin: 1.5%;
+    float: left;
+}
+#line5 img{
+    width: 17%;
+    margin: 1.5%;
+    float: left;
+}
+.clearfix{
+    clear: both
+}
+p{
+    text-align: center;
+    font-size: 30px;
+    text-transform: uppercase;
+    color: red;
+    text-decoration: underline;
+    text-decoration-color:  blue;
+}

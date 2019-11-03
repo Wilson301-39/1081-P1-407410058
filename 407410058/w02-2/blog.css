@@ -1,0 +1,21 @@
+body{
+    border-width: 12px;
+    border-style: solid;
+    border-color: lightgray;
+    padding: 12px;
+}
+.date{
+    color: blue;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+.post{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    color: rgb(107, 126, 107);
+}
+.quote{
+    border-left: 4px solid lightgray;
+    padding: 3px;
+}
